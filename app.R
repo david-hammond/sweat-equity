@@ -296,6 +296,11 @@ ui <- page_sidebar(
 - Any terms agreed (valuation cap, discount rate)?
 - Convertible notes or SAFE agreements?
 
+**Fundraising schedule:**
+- Target close date for seed round?
+- Current pipeline of investors?
+- What milestones needed before closing?
+
 **Bootstrap projects:**
 - What other revenue is coming in?
 - How does this affect runway?
@@ -305,7 +310,21 @@ ui <- page_sidebar(
 
 ---
 
-## 4. University Relationship
+## 4. Business Model & Revenue
+
+**Current plan:**
+- What's the business model?
+- Revenue streams planned?
+- When do you expect first revenue?
+
+**Path to profitability:**
+- Burn rate after I join?
+- When will company be cash flow positive?
+- How long does seed round extend runway?
+
+---
+
+## 5. University Relationship
 
 **Known: Uni has 5% equity**
 
@@ -316,7 +335,7 @@ ui <- page_sidebar(
 
 ---
 
-## 5. Exit & Liquidation
+## 6. Exit & Liquidation
 
 **Seed round terms:**
 - What liquidation preference will seed investors get?
@@ -333,7 +352,7 @@ ui <- page_sidebar(
 
 ---
 
-## 6. Documentation
+## 7. Documentation
 
 **Need to see:**
 - Market analysis / valuation report
@@ -343,7 +362,7 @@ ui <- page_sidebar(
 
 ---
 
-## 7. For the Calculator
+## 8. For the Calculator
 
 **What valuation should I use?**
 - Market analysis valuation range (low/mid/high)?
