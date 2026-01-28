@@ -317,10 +317,21 @@ ui <- page_sidebar(
 - Revenue streams planned?
 - When do you expect first revenue?
 
-**Path to profitability:**
+**Market validation:**
+- Who specifically is interested in this product?
+- Who has been consulted (customers, industry experts)?
+- Any LOIs, pilot agreements, or early commitments?
+
+**Costs & runway:**
+- What are the ongoing costs (salaries, infrastructure, legal)?
 - Burn rate after I join?
 - When will company be cash flow positive?
 - How long does seed round extend runway?
+
+**Risk factors:**
+- What are the key points of failure?
+- What could prevent product-market fit?
+- Biggest competitive threats?
 
 ---
 
