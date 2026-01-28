@@ -267,7 +267,6 @@ ui <- page_sidebar(
 - Equity % (fully-diluted basis)?
 - Type of equity (options, direct shares, RSUs)?
 - Vesting schedule?
-- What happens if I leave before demo/fundraise?
 
 **For the calculator:**
 - Market analysis valuation range?
@@ -300,11 +299,8 @@ ui <- page_sidebar(
 **Bootstrap projects:**
 - What other revenue is coming in?
 - How does this affect runway?
-- When do you absolutely need the seed round closed?
 
 **My role in fundraising:**
-- What demo needs to be built by year end?
-- Is seed round contingent on demo completion?
 - What's plan B if fundraise doesn't happen?
 
 ---
@@ -337,25 +333,7 @@ ui <- page_sidebar(
 
 ---
 
-## 6. My Protection & Terms
-
-**Vesting:**
-- Standard 4 year / 1 year cliff acceptable?
-- What if demo doesn't lead to fundraise - do I stay on?
-
-**Acceleration:**
-- Single or double-trigger on acquisition?
-- What % accelerates?
-
-**Exercise window:**
-- 90 days standard or longer?
-
-**Cliff:**
-- Can we discuss 6-month cliff given I'm critical for demo/fundraise?
-
----
-
-## 7. Documentation
+## 6. Documentation
 
 **Need to see:**
 - Market analysis / valuation report
@@ -365,7 +343,7 @@ ui <- page_sidebar(
 
 ---
 
-## 8. For the Calculator
+## 7. For the Calculator
 
 **What valuation should I use?**
 - Market analysis valuation range (low/mid/high)?
