@@ -40,7 +40,7 @@ ui <- page_sidebar(
     warning = "#E67E22"
   ) %>%
     bs_add_rules("
-      body { zoom: 0.9; }
+      html { font-size: 90%; }
       .card { margin-bottom: 0.5rem !important; }
       .card-body { padding: 0.75rem !important; }
       .card-header { padding: 0.5rem 0.75rem !important; font-size: 0.95rem !important; }
