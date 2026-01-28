@@ -70,7 +70,7 @@ ui <- page_sidebar(
     numericInput(
       "current_salary",
       "Current Base Salary ($)",
-      value = 203000,
+      value = 180000,
       min = 50000,
       max = 500000,
       step = 5000
