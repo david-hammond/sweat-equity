@@ -70,7 +70,7 @@ ui <- page_sidebar(
     numericInput(
       "current_salary",
       "Current Base Salary ($)",
-      value = 180000,
+      value = 174000,
       min = 50000,
       max = 500000,
       step = 5000
@@ -107,7 +107,7 @@ ui <- page_sidebar(
     sliderInput(
       "salary_percentage",
       "New Salary (% of Current)",
-      value = 80,
+      value = 85,
       min = 50,
       max = 100,
       step = 5,
@@ -451,7 +451,7 @@ server <- function(input, output, session) {
     updateNumericInput(session, "company_valuation", value = 10)
     updateNumericInput(session, "vesting_period", value = 4)
     updateNumericInput(session, "annual_cpi", value = 3.5)
-    updateSliderInput(session, "salary_percentage", value = 80)
+    updateSliderInput(session, "salary_percentage", value = 85)
     updateNumericInput(session, "risk_multiplier", value = 4)
   })
 
