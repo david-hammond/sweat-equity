@@ -45,12 +45,12 @@ ui <- page_sidebar(
       .card-body { padding: 0.75rem !important; }
       .card-header { padding: 0.5rem 0.75rem !important; font-size: 0.95rem !important; }
       p { margin-bottom: 0.25rem !important; font-size: 0.9rem !important; }
-      .value-box { padding: 0.4rem 0.6rem !important; height: 60px !important; min-height: 60px !important; max-height: 60px !important; flex-shrink: 0 !important; }
-      .value-box .value-box-title { font-size: 0.7rem !important; margin-bottom: 0.1rem !important; line-height: 1.1 !important; }
-      .value-box .value-box-value { font-size: 1.1rem !important; font-weight: 700 !important; line-height: 1.2 !important; }
-      .value-box .value-box-showcase { font-size: 1.2rem !important; }
+      .value-box { padding: 0.3rem 0.5rem !important; height: 50px !important; min-height: 50px !important; max-height: 50px !important; flex-shrink: 0 !important; }
+      .value-box .value-box-title { font-size: 0.6rem !important; margin-bottom: 0.1rem !important; line-height: 1 !important; }
+      .value-box .value-box-value { font-size: 0.95rem !important; font-weight: 700 !important; line-height: 1.1 !important; }
+      .value-box .value-box-showcase { font-size: 1rem !important; }
       .value-box .value-box-area { gap: 0.3rem !important; }
-      .bslib-value-box { height: 60px !important; }
+      .bslib-value-box { height: 50px !important; }
       hr { margin: 0.5rem 0 !important; }
       .bslib-sidebar-layout { gap: 0.75rem !important; }
       .form-group { margin-bottom: 0.75rem !important; }
