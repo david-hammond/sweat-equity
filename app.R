@@ -172,7 +172,7 @@ ui <- page_sidebar(
       # Detailed Analysis - Tabbed Card
       card(
         navset_card_tab(
-          height = "650px",
+          height = "585px",
           nav_panel(
             "Chart",
             plotlyOutput("comparison_chart", height = "540px")
