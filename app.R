@@ -254,12 +254,12 @@ ui <- page_sidebar(
     ),
 
     nav_panel(
-      "Questions for Discussion",
+      "Discussion",
       style = "overflow-y: auto; max-height: calc(100vh - 150px);",
       card(
         card_header("Equity Compensation Discussion Guide"),
         markdown("
-# Key Questions for Discussion
+# Discussion
 
 ## 1. My Equity Package
 
