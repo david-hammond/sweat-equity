@@ -92,7 +92,7 @@ ui <- page_sidebar(
       value = 4,
       min = 1,
       max = 10,
-      step = 0.5
+      step = 1
     ),
 
     numericInput(
